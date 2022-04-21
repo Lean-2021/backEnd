@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "title": "Monitor Dell",
+        "price":12000,
+        "thumbnail":"https://www.bhphotovideo.com/images/images2000x2000/dell_se2717h_flat_panel_monitor_27_1334660.jpg"
+    },
+    {
+        "id":2,
+        "title":"Notebook HP 440 G7",
+        "price":113500,
+        "thumbnail":"https://www.dorcom.co.il/wp-content/uploads/2020/02/HP-ProBook-430-G7-1-scaled.jpg"
+    },
+    {
+        "id":3,
+        "title":"Dell Optiplex 3070 SFF",
+        "price":103800,
+        "thumbnail":"https://zetta.la/wp-content/uploads/2020/10/OptiPlex_3070.jpeg"
+    }
+]
